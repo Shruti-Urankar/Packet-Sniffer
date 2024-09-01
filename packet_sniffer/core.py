@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # https://github.com/EONRaider/Packet-Sniffer
 
-__author__ = "EONRaider @ keybase.io/eonraider"
+__author__ = "Shruti Urankar"
 
 import itertools
 import time
